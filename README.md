@@ -16,7 +16,7 @@ This project is a simple language translation web service that accepts a list of
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/hamza700/translation-service.git
+git clone https://github.com/hamza700/translation-task.git
 cd translation-service
 ```
 
